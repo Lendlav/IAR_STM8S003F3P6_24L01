@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Controller_NRF24L01_RX.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Controller_NRF24L01_TX.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\OLED_NRF24L01_RX.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Tank_NRF24L01_RX.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
